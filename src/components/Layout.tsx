@@ -1,6 +1,6 @@
 import { Grid, Zoom } from "@mui/material";
 import React from "react";
-import { styles } from "../services/main_style";
+import { styles } from "../styles/main_style";
 import { get_data } from "../services/services";
 import { Result } from "../models/data_model";
 import Card from "./Card";
