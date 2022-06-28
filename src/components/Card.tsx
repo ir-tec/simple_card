@@ -1,9 +1,4 @@
-import {
-  ExpandCircleDown,
-  Favorite,
-  MoreHoriz,
-  Share,
-} from "@mui/icons-material";
+import { ExpandCircleDown, Favorite } from "@mui/icons-material";
 import {
   Avatar,
   Card,
