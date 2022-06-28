@@ -1,0 +1,9 @@
+@font-face {
+  font-family: dana;
+  src: url("../assets/fonts/dana-medium.ttf");
+}
+
+* {
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+}
